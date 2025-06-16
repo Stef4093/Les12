@@ -1,0 +1,90 @@
+            Header {
+                height: 50px;
+                background-color: black;
+                margin-bottom: 100px;
+                color: #FFFFFF;
+            }
+            Footer {
+                height: 50px;
+                background-color: navy;
+                margin-top: 100px;
+            }
+            td {
+                width: 200px;
+                color: #FFFFFF;
+            }
+            #a1{
+                background-color: brown;
+            }
+            #a2 {
+                background-color: yellowgreen;
+            }
+            #a3 {
+                background-color:aquamarine;
+            }
+            #a4 {
+                background-color:coral;
+            }
+            #b1 {
+                background-color:blueviolet;
+                color: #000000;
+            }
+            #b2 {
+                background-color:yellow;
+            }
+            #b3 {
+                background-color:crimson;
+            }
+            #b4 {
+                background-color:azure;
+            }
+            #c1 {
+                background-color:fuchsia;
+                color: #000000;
+            }
+            #c2 {
+                background-color:honeydew;
+            }
+            #c3 {
+                background-color:bisque;
+            }
+            #c4 {
+                background-color:lightgrey;
+            }
+            #d1 {
+                background-color:blue;
+                color: #000000;
+            }
+            #d2 {
+                background-color:deeppink;
+            }
+            #d3 {
+                background-color:hotpink;
+            }
+            #d4 {
+                background-color:black;
+            }
+            .name1 {
+background-color: fuchsia;
+}
+.name2 {
+background-color: honeydew;
+}
+.name3 {
+background-color: bisque;
+}
+.name4 {
+background-color: lightgrey;
+}
+.place1 {
+background-color:blue;
+}
+.place2 {
+background-color:  deeppink;
+}
+.place3 {
+background-color: hotpink;
+}
+.place4 {
+background-color: black;
+}
